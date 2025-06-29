@@ -1,6 +1,6 @@
 import Navbar from "./components/navbar";
 import Search from "./components/Seach";
-import Product from "./Produc";
+import Product from "./Product";
 import Aboutus from "./Aboutus";
 import Footer from "./Footer";
 

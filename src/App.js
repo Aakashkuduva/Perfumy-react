@@ -15,7 +15,7 @@ function App(){
   <Aboutus></Aboutus>
  <Footer></Footer>
         </div>
-    )g
+    )
 }
 
 
